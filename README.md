@@ -9,7 +9,6 @@ project_folder/
 │   ├── Mocap_UMPM
 │   │   ├── train_3_75_mocap_umpm.npy
 │   │   ├── test_3_75_mocap_umpm.npy
-│   │   ├── test_3_75_mocap_umpm_shuffled.npy
 │   ├── MuPoTs3D
 │   │   ├── mupots_150_2persons.npy
 │   │   ├── mupots_150_3persons.npy
