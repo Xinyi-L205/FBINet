@@ -35,8 +35,8 @@ project_folder/
 
 ## Train
 For training on Mocap_UMPM dataset, you can run 
-`python train.py`
+`python train.py`.
 
 ## Test
 We provide the evaluation code on the Mocap_UMPM dataset, you can run 
-`python test.py`
+`python test.py`.
