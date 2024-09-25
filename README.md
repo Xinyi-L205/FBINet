@@ -1,4 +1,4 @@
-# FBINet
+# FBINet: Fine-grained behavior Interaction-aware Network for Efficient Multi-person Motion Forecasting
 ## Introduction
 This study focuses on predicting multi-person movements. By analyzing a sequence of historical skeletal joint positions, we aim to forecast future postural changes for individuals.
 ## Data
