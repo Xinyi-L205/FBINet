@@ -5,8 +5,6 @@ This study focuses on predicting multi-person movements. By analyzing a sequence
 The datasets we used are all sourced from [TBIFormer](https://github.com/xiaogangpeng/tbiformer), which has made the data available online for download. Please prepare the data as follows:
 ```
 project_folder/
-├── checkpoints/
-│   ├── ...
 ├── data/
 │   ├── Mocap_UMPM
 │   │   ├── train_3_75_mocap_umpm.npy
