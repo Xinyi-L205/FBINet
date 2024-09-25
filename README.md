@@ -34,7 +34,9 @@ project_folder/
 * transformers==4.18.0
 
 ## Train
+For training on Mocap_UMPM dataset, you can run 
 `python train.py`
 
 ## Test
+We provide the evaluation code on the Mocap_UMPM dataset, you can run 
 `python test.py`
