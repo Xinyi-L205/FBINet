@@ -14,6 +14,8 @@ project_folder/
 │   │   ├── mupots_150_3persons.npy
 │   ├── mix1_6persons.npy
 │   ├── mix2_10persons.npy
+├── dataset/
+│   ├── ...
 ├── logs/
 │   ├── ...
 ├── models/
