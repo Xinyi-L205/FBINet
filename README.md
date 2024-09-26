@@ -40,3 +40,5 @@ For training on Mocap_UMPM dataset, you can run
 ## Test
 We provide the evaluation code on the Mocap_UMPM dataset, you can run 
 `python test.py`.
+
+We provide the trained model on Mocap_UMPM, you can download it from [Google Drive](https://drive.google.com/file/d/1UfQVQPFDW8PURsqRnk45loR1uMUi10iF/view?usp=sharing) and put it in logs directory.
